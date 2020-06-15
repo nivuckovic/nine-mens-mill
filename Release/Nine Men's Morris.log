@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SFML_Setup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AudioManager.cpp
+  Generating code
+  2 of 2745 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Nine Men's Morris.vcxproj -> C:\Users\nivuc\source\repos\Nine Men's Morris\Release\Nine Men's Morris.exe

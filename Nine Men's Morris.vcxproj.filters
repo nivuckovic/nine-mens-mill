@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{71395685-74ca-404f-a10b-964414ad9963}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{86417e43-a94e-4984-aab5-cefebc5be210}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\GameState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\Globals.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\InstructionsState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\Level.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\LevelState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\MenuState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\Node.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\OptionsState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\PauseState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\PlayerInfo.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\PlayingState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\ResourceHolder.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\VictoryState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\AudioManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\Board.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\Button.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\Context.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\EnumResources.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\EnumsBoard.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\GameEngine.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Include\GameObject.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\LevelState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\MenuState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\Node.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\OptionsState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\PauseState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\PlayingState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\VictoryState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\AudioManager.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\Board.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\Button.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\EnumResources.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\GameEngine.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\GameState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\Globals.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Source\InstructionsState.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

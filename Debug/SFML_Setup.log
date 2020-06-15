@@ -1,0 +1,7 @@
+﻿  main.cpp
+  MenuState.cpp
+  Node.cpp
+C:\Users\nivuc\source\repos\SFML_Setup\SFML_Setup\Node.cpp(350,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\nivuc\source\repos\SFML_Setup\SFML_Setup\Node.cpp(424,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SFML_Setup.vcxproj -> C:\Users\nivuc\source\repos\SFML_Setup\Debug\SFML_Setup.exe
